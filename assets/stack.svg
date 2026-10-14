@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="108" viewBox="0 0 840 108" role="img" aria-label="Stack: Entra ID, Intune, Defender XDR, Sentinel, KQL, PowerShell, Python, ISO 27001, Essential Eight">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace; font-size: 14px; font-weight: 600; text-anchor: middle; }
+    rect.pill { fill: none; stroke-width: 1.5; }
+    .c { stroke: #00E5FF; fill: #00E5FF; }
+    .g { stroke: #00FF9C; fill: #00FF9C; }
+    .p { stroke: #B16BFF; fill: #B16BFF; }
+    .k { stroke: #FF2FD0; fill: #FF2FD0; }
+    .y { stroke: #FFD000; fill: #FFD000; }
+    rect.c, rect.g, rect.p, rect.k, rect.y { fill: none; }
+    text.c, text.g, text.p, text.k, text.y { stroke: none; }
+  </style>
+
+  <rect x="1" y="1" width="838" height="106" rx="12" fill="#0B0E14" stroke="#00E5FF" stroke-opacity=".35" stroke-width="1.5"/>
+
+  <!-- row 1: the Microsoft security stack -->
+  <rect class="pill c" x="175" y="14" width="95"  height="34" rx="17"/><text class="c" x="222.5" y="36">Entra ID</text>
+  <rect class="pill g" x="280" y="14" width="78"  height="34" rx="17"/><text class="g" x="319"   y="36">Intune</text>
+  <rect class="pill p" x="368" y="14" width="129" height="34" rx="17"/><text class="p" x="432.5" y="36">Defender XDR</text>
+  <rect class="pill k" x="507" y="14" width="95"  height="34" rx="17"/><text class="k" x="554.5" y="36">Sentinel</text>
+  <rect class="pill y" x="612" y="14" width="53"  height="34" rx="17"/><text class="y" x="638.5" y="36">KQL</text>
+
+  <!-- row 2: tooling and frameworks -->
+  <rect class="pill k" x="181" y="60" width="112" height="34" rx="17"/><text class="k" x="237"   y="82">PowerShell</text>
+  <rect class="pill y" x="303" y="60" width="78"  height="34" rx="17"/><text class="y" x="342"   y="82">Python</text>
+  <rect class="pill c" x="391" y="60" width="104" height="34" rx="17"/><text class="c" x="443"   y="82">ISO 27001</text>
+  <rect class="pill g" x="505" y="60" width="154" height="34" rx="17"/><text class="g" x="582"   y="82">Essential Eight</text>
+</svg>
