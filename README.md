@@ -1,21 +1,17 @@
-## Aaron Cahill
+## Hey, I'm Aaron
 
-Information Security Operations Lead at [efex](https://www.efex.com.au), Australia.
+I got into security sideways. Started out in tech projects, kept pulling on whatever I was
+curious about, and a homelab gave me somewhere to actually break things and figure out how
+they work. Eventually that curiosity turned into starting the InfoSec Ops team at efex.
 
-I look after security operations across our Microsoft cloud estate: identity, endpoints,
-detection and response, and the compliance work that ties them together.
+Most days it's Entra, Intune, Defender and Sentinel, and a lot of PowerShell so the boring
+bits run themselves and people get to do the thinking. The big one so far has been ISO 27001:
+taking our technical controls from all over the shop to something that actually holds up.
 
-**Focus areas**
+Trust, but log everything.
 
-- Microsoft Entra ID and Intune: identity, access and device baselines
-- Microsoft Defender XDR and Sentinel: detection, investigation, KQL
-- Security automation in PowerShell and Python
-- ISO 27001 and the ACSC Essential Eight
+**Currently**
 
-**How I work**
-
-Automation here is read-first and plan-by-default: tools report what they would change, and a
-person approves before anything touches production.
-
-Most of my work lives in private repositories. Anything published here is general-purpose
-tooling with no customer or company data in it.
+- Learning Python, one script at a time
+- Tinkering with the homelab, as always
+- Making my terminal more neon than it needs to be
